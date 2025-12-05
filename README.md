@@ -59,6 +59,7 @@ php artisan serve
 
 ### Admin Dashboard
 ![Dashboard](public/Screenshots/admin/dashboard/dashboard.png)
+![Dashboard](public/Screenshots/admin/dashboard/dashboard-ar.png)
 
 ### Admin - Doctors
 #### Add Doctor
